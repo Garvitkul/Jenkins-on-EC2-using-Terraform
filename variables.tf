@@ -22,7 +22,7 @@ variable "jenkins_instance" {
 variable "bucketname" {
   description = "private jenkins bucket"
   type        = string
-  default     = "alysoncoppola-bucket-2023"
+  default     = "garvit-bucket-2023"
 }
 
 #define the key pair
